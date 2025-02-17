@@ -1,0 +1,529 @@
+{
+  "2024 Press Releases": [
+    {
+      "Seller": "International Contract Assembly Group, L.L.C.",
+      "Buyer": "AAT USA LLC",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Contract Manufacturing & Assembly",
+      "Services": "Metal parts and electronic assemblies, warehousing, distribution, business process optimization"
+    },
+    {
+      "Seller": "GEOGRAPH Technologies, LLC",
+      "Buyer": "Abingdon Software Group",
+      "Industry": "Technology",
+      "Sub-Industry": "Geographic Information Systems (GIS)",
+      "Services": "Fiber optic, copper, and coax network management, GIS consulting, data migration, network planning"
+    },
+    {
+      "Seller": "A&B Concrete Coring Company Inc.",
+      "Buyer": "A-Core, Concrete Specialists",
+      "Industry": "Construction",
+      "Sub-Industry": "Concrete Cutting & Demolition",
+      "Services": "Concrete demolition, cutting, drilling, pouring, GPR concrete scanning, grinding & grooving, joint sawing & sealing, residential services, slab panel replacement"
+    },
+    {
+      "Seller": "Computer Systems Integrators, Inc.",
+      "Buyer": "Acture Solutions",
+      "Industry": "Information Technology",
+      "Sub-Industry": "IT Solutions & Security",
+      "Services": "Managed IT services, cybersecurity, cloud solutions, IT project solutions, IT support for educational and government organizations"
+    },
+    {
+      "Seller": "Plant Drives & Systems",
+      "Buyer": "AES, Inc.",
+      "Industry": "Industrial Automation",
+      "Sub-Industry": "Variable-Frequency Drive Systems",
+      "Services": "Systems integration, industrial automation, equipment repair services"
+    },
+    {
+      "Seller": "WESCO Chemicals, Inc.",
+      "Buyer": "Apex Water and Process Inc.",
+      "Industry": "Industrial Services",
+      "Sub-Industry": "Water Treatment Chemicals & Equipment",
+      "Services": "Chemical formulation, plant automation, cooling tower, boiler, and closed loop water treatment"
+    },
+    {
+      "Seller": "D & D Roofing, Inc.",
+      "Buyer": "Bell Roofing",
+      "Industry": "Construction",
+      "Sub-Industry": "Commercial & Residential Roofing",
+      "Services": "Commercial roofing, sheet metal fabrication, roof repairs, installations, skylights, gutter services"
+    },
+    {
+      "Seller": "Data Science Automation (DSA)",
+      "Buyer": "Blackford Capital",
+      "Industry": "Industrial Automation",
+      "Sub-Industry": "Automation Systems Integration",
+      "Services": "Laboratory automation, smart manufacturing, test automation, embedded product development"
+    },
+    {
+      "Seller": "Satex Plumbing, Inc.",
+      "Buyer": "Bleuwave General Contracting, LLC",
+      "Industry": "Construction",
+      "Sub-Industry": "Commercial Plumbing Services",
+      "Services": "Plumbing repairs, remodels, new construction, medical, retail, and restaurant facilities"
+    },
+    {
+      "Seller": "EVOS Logistics, Inc.",
+      "Buyer": "Blue Grace Logistics",
+      "Industry": "Logistics & Technology",
+      "Sub-Industry": "Transportation Management SaaS",
+      "Services": "SaaS solutions, transportation optimization, logistics data analytics, machine learning automation"
+    },
+    {
+      "Seller": "D.R. Price Engineering & Land Surveying, Inc.",
+      "Buyer": "Boos Resource & Technology Group",
+      "Industry": "Engineering",
+      "Sub-Industry": "Engineering & Land Surveying",
+      "Services": "Structural engineering, civil engineering, mining engineering, land surveying, GPS & drone surveying"
+    },
+    {
+      "Seller": "QuadMed, Inc.",
+      "Buyer": "Bound Tree Medical, LLC",
+      "Industry": "Medical Supply",
+      "Sub-Industry": "Emergency Medical Equipment Distribution",
+      "Services": "EMS supplies, airway management, diagnostics, patient monitoring, infection control"
+    },
+    {
+      "Seller": "Speece Lewis Engineers",
+      "Buyer": "Bowman Consulting Group Ltd.",
+      "Industry": "Engineering",
+      "Sub-Industry": "Transportation & Bridge Engineering",
+      "Services": "Bridge design, surveying, hydraulics, infrastructure consulting"
+    },
+    {
+      "Seller": "Clark Crane",
+      "Buyer": "Capital Extension Crane & Lift",
+      "Industry": "Construction",
+      "Sub-Industry": "Crane & Equipment Rental",
+      "Services": "Rigging, lifting, transportation, equipment operation, logistics consulting, crane and forklift rentals, 24-hour service"
+    },
+    {
+      "Seller": "DBox, Inc.",
+      "Buyer": "CBS Property Management Inc.",
+      "Industry": "Facilities Management",
+      "Sub-Industry": "Commercial Maintenance & Porter Services",
+      "Services": "Commercial maintenance, porter services, commercial products, GlassMasking Paint sales"
+    },
+    {
+      "Seller": "Scapes Group, LLC",
+      "Buyer": "Charter Vista Landscaping, LLC",
+      "Industry": "Landscaping",
+      "Sub-Industry": "Residential & Commercial Landscaping",
+      "Services": "Landscape architecture, design-build construction, lawn care, maintenance"
+    },
+    {
+      "Seller": "Espresso Parts, LLC",
+      "Buyer": "Diversified Foodservice Supply, LLC",
+      "Industry": "Foodservice Supply",
+      "Sub-Industry": "Commercial Coffee Equipment",
+      "Services": "E-commerce supplier, commercial coffee equipment, barista tools, coffee accessories"
+    },
+    {
+      "Seller": "MaxVac Inc.",
+      "Buyer": "DXP Enterprises, Inc.",
+      "Industry": "Industrial Equipment",
+      "Sub-Industry": "Vacuum Pump Sales & Repair",
+      "Services": "Industrial vacuum pumps, remanufacturing, maintenance, MRO solutions"
+    },
+    {
+      "Seller": "Romack International I, LLC",
+      "Buyer": "Excel Management Systems, Inc.",
+      "Industry": "Professional Services",
+      "Sub-Industry": "IT & Healthcare Staffing",
+      "Services": "Employer of record (EOR), IT security, contingent search, staffing solutions"
+    },
+    {
+      "Seller": "Presidio Doors, LLC.",
+      "Buyer": "First Impression Ironworks, Inc.",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Custom Steel Windows & Doors",
+      "Services": "Custom steel doors, thermally broken and galvanized options, design consultations, fabrication, installation"
+    },
+    {
+      "Seller": "Golden Openings, Inc.",
+      "Buyer": "Front Row Sales and Marketing",
+      "Industry": "Event Services",
+      "Sub-Industry": "Grand Opening & Promotional Products",
+      "Services": "Custom ribbons, giant scissors, event planning, promotional items"
+    },
+    {
+      "Seller": "Tygra Industries, LLC",
+      "Buyer": "Fugue Capital",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Custom Cabinetry",
+      "Services": "Residential kitchen, bathroom, closet, office, and laundry room cabinetry"
+    },
+    {
+      "Seller": "Arrow Sign Company, Inc",
+      "Buyer": "Fusion Sign and Design",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Signage Solutions",
+      "Services": "Design, manufacturing, installation, maintenance of commercial signage"
+    },
+    {
+      "Seller": "Latrobe Foundry Machine & Supply Co.",
+      "Buyer": "Genesys Industries",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Aluminum Pipe Fittings & Hardware",
+      "Services": "Threaded and flanged aluminum pipe fittings, mechanical hardware components, precision machining"
+    },
+    {
+      "Seller": "Micro-Precision Technologies, Inc.",
+      "Buyer": "Great River Capital Partners",
+      "Industry": "Electronics",
+      "Sub-Industry": "High-Performance Microelectronics",
+      "Services": "Thick-film ceramic substrates, hybrid microelectronic manufacturing, obsolete semiconductor manufacturing"
+    },
+    {
+      "Seller": "Innovation Mold and Design, Inc.",
+      "Buyer": "Halifax West",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Injection Mold Manufacturing",
+      "Services": "Plastic injection molds, diecast molds, EDM work, contract design, machining"
+    },
+    {
+      "Seller": "International Restaurant Distributors, Inc.",
+      "Buyer": "Hart & Price Corporation",
+      "Industry": "Foodservice Supply",
+      "Sub-Industry": "Commercial Kitchen Equipment & Beverage Supplies",
+      "Services": "Foodservice equipment distribution, beverage and ice equipment, refrigeration solutions"
+    },
+    {
+      "Seller": "Medical Temps, Inc.",
+      "Buyer": "Health Advocates Network",
+      "Industry": "Healthcare Staffing",
+      "Sub-Industry": "Medical Staffing Services",
+      "Services": "Nursing placements, rapid response staffing, regulatory compliance staffing solutions"
+    },
+    {
+      "Seller": "MTS Transportation, Inc.",
+      "Buyer": "High Desert Management Group, LLC",
+      "Industry": "Logistics",
+      "Sub-Industry": "3PL & Refrigerated Trucking",
+      "Services": "Full truckload refrigerated transport, dry freight, flatbed, bulk carbon black, bulk milk transport"
+    },
+    {
+      "Seller": "Kevco Builders, Inc.",
+      "Buyer": "High-Net-Worth Individual",
+      "Industry": "Construction",
+      "Sub-Industry": "Custom Home Building",
+      "Services": "Custom luxury and estate homes, architectural design, high-end residential construction"
+    },
+    {
+      "Seller": "Deluxe Plumbing & Heating",
+      "Buyer": "HomeX Services Group",
+      "Industry": "Home Services",
+      "Sub-Industry": "Plumbing, HVAC & Electrical Services",
+      "Services": "Plumbing, HVAC, electrical services, training and development for technicians"
+    },
+    {
+      "Seller": "EZ Fabricating, Inc.",
+      "Buyer": "House Rock Capital Partners",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Precision Metal Fabrication",
+      "Services": "Laser cutting, machining, welding, tube bending, metal finishing"
+    },
+    {
+      "Seller": "Boost Strategy Partners, LLC",
+      "Buyer": "ImageTech Systems",
+      "Industry": "Information Technology",
+      "Sub-Industry": "Business Process Automation & AI",
+      "Services": "Digital transformation, Nintex software subscriptions, Nintex & SharePoint support, project services"
+    },
+    {
+      "Seller": "World Panel Products, Inc.",
+      "Buyer": "Independent Investor",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Marine Wood & Composite Panel Distribution",
+      "Services": "Specialty wood and synthetic panels for boat construction and repair"
+    },
+    {
+      "Seller": "L&D Mail Masters, Inc.",
+      "Buyer": "Ironmark",
+      "Industry": "Marketing",
+      "Sub-Industry": "Direct Marketing Solutions",
+      "Services": "Direct mail advertising, digital marketing, corporate branding, fulfillment storage"
+    },
+    {
+      "Seller": "Summit Trailer Sales Inc.",
+      "Buyer": "Jorden Industries",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Dump Trailers & Dump Bodies",
+      "Services": "Custom trailer manufacturing, dump bed solutions, heavy-duty trailers"
+    },
+    {
+      "Seller": "Storm Guardian Generators, LP",
+      "Buyer": "Liberty Service Partners",
+      "Industry": "Electrical Services",
+      "Sub-Industry": "Generator Sales & Installation",
+      "Services": "Commercial & residential electrical, generator maintenance, plumbing services"
+    },
+    {
+      "Seller": "Square One Coating Systems, LLC",
+      "Buyer": "Lionheart Industrial Group",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Metal Finishing & Coating Services",
+      "Services": "Electroless nickel application, chemical processing, aerospace coatings"
+    },
+    {
+      "Seller": "United Wholesale Supply, Inc.",
+      "Buyer": "Management Buyout",
+      "Industry": "Wholesale",
+      "Sub-Industry": "Cabinets & Appliances Distribution",
+      "Services": "Wholesale distribution of cabinets and appliances, serving the Puget Sound region"
+    },
+    {
+      "Seller": "Wisconic, Inc.",
+      "Buyer": "Manufacturing Revitalization Corporation of America",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Custom Injection Molding & Houseware Products",
+      "Services": "Injection molding, kitchenware, bottled water storage, outdoor entertainment products"
+    },
+    {
+      "Seller": "BL Family Practice, P.A.",
+      "Buyer": "Med First Primary & Urgent Care",
+      "Industry": "Healthcare",
+      "Sub-Industry": "Primary & Urgent Care",
+      "Services": "Pain management, cardiac care, preventative care"
+    },
+    {
+      "Seller": "Digital Prism Advisors, Inc.",
+      "Buyer": "Mod Op",
+      "Industry": "Consulting",
+      "Sub-Industry": "Digital Strategy & Transformation",
+      "Services": "Technology-driven growth strategy, AI integration, market expansion, product innovation"
+    },
+    {
+      "Seller": "George W. Evans & Associates, Inc.",
+      "Buyer": "Nationwide Brokerage Solutions Insurance Agency, Inc.",
+      "Industry": "Insurance",
+      "Sub-Industry": "Wholesale & Managing General Agent (MGA)",
+      "Services": "Employee benefits insurance, non-subscriber worker's compensation, independent agent support"
+    },
+    {
+      "Seller": "TMCADD Consulting & Services, LLC",
+      "Buyer": "NV5 Global, Inc.",
+      "Industry": "Engineering",
+      "Sub-Industry": "Building Information Modeling (BIM)",
+      "Services": "BIM management, 3D building asset modeling, CAD, reality capture services"
+    },
+    {
+      "Seller": "Jardon & Howard Technologies",
+      "Buyer": "Precise Systems",
+      "Industry": "Defense",
+      "Sub-Industry": "Training & Simulation Solutions",
+      "Services": "Military training solutions, technical documentation, simulation systems, professional staffing support"
+    },
+    {
+      "Seller": "Demetrius of Forty Churches, LLC (Ahlers Meals)",
+      "Buyer": "Private Investor",
+      "Industry": "Food Services",
+      "Sub-Industry": "Home-Delivered Meals",
+      "Services": "Service for aging and disabled individuals, grocery shopping, meal prep, food insecurity solutions"
+    },
+    {
+      "Seller": "Worldwide Technologies, LLC",
+      "Buyer": "Quad Capital Partners",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Precision Machining & Fabrication",
+      "Services": "CNC machining, robotic manufacturing, industrial component production"
+    },
+    {
+      "Seller": "J2 Company",
+      "Buyer": "Quiet C",
+      "Industry": "Construction",
+      "Sub-Industry": "Facility Maintenance & Electrical Contracting",
+      "Services": "MEP facility maintenance, repair services, electrical and mechanical contracting for government, commercial, and industrial clients"
+    },
+    {
+      "Seller": "Concepts in Millwork, Inc.",
+      "Buyer": "Quivion",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Architectural Millwork",
+      "Services": "Design, fabrication, delivery, installation of custom architectural millwork"
+    },
+    {
+      "Seller": "D TEL Telecommunications, Inc.",
+      "Buyer": "Responsive Technology Partners",
+      "Industry": "Telecommunications",
+      "Sub-Industry": "Systems Integration & IT Support",
+      "Services": "Premise, hybrid, and cloud-based phone systems, surveillance, access control, sound systems, IT support, cybersecurity, cloud services"
+    },
+    {
+      "Seller": "PS International, Inc.",
+      "Buyer": "Rockford Separators",
+      "Industry": "Environmental Services",
+      "Sub-Industry": "Oil-Water Separators",
+      "Services": "Oil-water separators, lift stations, wastewater treatment systems, leak detection solutions"
+    },
+    {
+      "Seller": "GloveIt, LLC",
+      "Buyer": "Ruscan Chem Inc.",
+      "Industry": "Consumer Goods",
+      "Sub-Industry": "Sports Accessories & Apparel",
+      "Services": "Women’s golf, tennis, and pickleball accessories, e-commerce, wholesale distribution"
+    },
+    {
+      "Seller": "A.D.A. Supplies & Leasing Services Inc.",
+      "Buyer": "Safety Supply Group",
+      "Industry": "Wholesale & Distribution",
+      "Sub-Industry": "Safety & Industrial Supplies",
+      "Services": "Personal Protective Equipment (P.P.E.), Maintenance, Repair, and Operations (M.R.O.)"
+    },
+    {
+      "Seller": "Talent Framework, LLC",
+      "Buyer": "Savard Labor and Marine Personnel",
+      "Industry": "Staffing",
+      "Sub-Industry": "Industrial & Professional Staffing",
+      "Services": "Temporary and permanent placements, blue-collar labor, contract staffing"
+    },
+    {
+      "Seller": "Critical Environments Professionals",
+      "Buyer": "Scientific Safety Alliance",
+      "Industry": "Environmental Services",
+      "Sub-Industry": "Cleanroom Certification & Facility Assessments",
+      "Services": "Cleanroom certifications, facility assessments, regulatory compliance, testing and calibration"
+    },
+    {
+      "Seller": "Mideast Delivery Solutions",
+      "Buyer": "SPS Health",
+      "Industry": "Logistics",
+      "Sub-Industry": "Pharmaceutical & Healthcare Delivery",
+      "Services": "Daily delivery route coordination, STAT order coverage, logistics consulting for long-term care pharmacies"
+    },
+    {
+      "Seller": "Fredericksburg Machine & Steel, LLC (Viking Steel Fabricators)",
+      "Buyer": "SRF, LLC (Chesapeake Bay Steel, Inc.)",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Steel Fabrication & Erection",
+      "Services": "Structural steel, ornamental"
+    },
+    {
+      "Seller": "KMI Sports Construction, LLC",
+      "Buyer": "Sundance Partners",
+      "Industry": "Construction",
+      "Sub-Industry": "Sports Facility Construction",
+      "Services": "Indoor and outdoor surfacing, design and construction of sports complexes, municipal and school district projects"
+    },
+    {
+      "Seller": "Christian Network International",
+      "Buyer": "Symbia Logistics",
+      "Industry": "Logistics & Distribution",
+      "Sub-Industry": "Fulfillment & Distribution of Christian Products",
+      "Services": "Christian books, music, movies, religious item distribution, state-of-the-art networking systems"
+    },
+    {
+      "Seller": "ProStar Adjusting, LLC",
+      "Buyer": "Team One Insurance Services",
+      "Industry": "Insurance",
+      "Sub-Industry": "Claims Adjusting Services",
+      "Services": "Independent insurance claims adjusting, multi-line claims management, client partnerships"
+    },
+    {
+      "Seller": "World Class Displays",
+      "Buyer": "TentCraft",
+      "Industry": "Marketing & Events",
+      "Sub-Industry": "Custom Trade Show & Event Displays",
+      "Services": "High-impact display experiences, event structures, pop-up tents, signage"
+    },
+    {
+      "Seller": "Premier Grease Recycling & Services LLC",
+      "Buyer": "Texas Feed Fat Co., Inc.",
+      "Industry": "Environmental Services",
+      "Sub-Industry": "Grease Recycling & Waste Oil Management",
+      "Services": "Cooking oil recovery, grease trap cleaning, recycling into animal feed fats and biofuels"
+    },
+    {
+      "Seller": "Z Consulting, LLC",
+      "Buyer": "The Bridge",
+      "Industry": "Consulting",
+      "Sub-Industry": "Business Strategy & Change Management",
+      "Services": "Management consulting, organizational design, process improvement, transformation solutions"
+    },
+    {
+      "Seller": "Robertson Lowstuter",
+      "Buyer": "The Center for Sales Strategy",
+      "Industry": "Consulting",
+      "Sub-Industry": "Executive Coaching & Leadership Development",
+      "Services": "Professional coaching, leadership training, organizational transformation"
+    },
+    {
+      "Seller": "Alliance Technology",
+      "Buyer": "The HEICO Companies",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Sewer & Drain Inspection Equipment",
+      "Services": "Sewer inspection push rod camera systems, mainline sewer inspection crawler systems, in-house service and repair, aftermarket support"
+    },
+    {
+      "Seller": "Pinnacle Fire Systems, Inc.",
+      "Buyer": "The Hiller Companies",
+      "Industry": "Fire Protection",
+      "Sub-Industry": "Fire Alarm & Detection Systems",
+      "Services": "Installation, inspection, and maintenance of fire protection systems for commercial and healthcare buildings"
+    },
+    {
+      "Seller": "Awnclean U.S.A., Inc.",
+      "Buyer": "The Valcourt Group",
+      "Industry": "Commercial Services",
+      "Sub-Industry": "General Cleaning & Maintenance",
+      "Services": "Janitorial services, specialized cleaning solutions, commercial facilities management"
+    },
+    {
+      "Seller": "Curie Environmental Services, LLC",
+      "Buyer": "Tradebe Environmental Services, LLC",
+      "Industry": "Environmental Services",
+      "Sub-Industry": "Radioactive Material Recycling",
+      "Services": "Recycling of radioactive materials, specialized licensing, hazardous waste management"
+    },
+    {
+      "Seller": "Signcraft Solutions, LLC",
+      "Buyer": "Two Individual Buyers",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Commercial Signage Solutions",
+      "Services": "Sign design, manufacturing, repair, installation, vehicle wraps, trade show displays"
+    },
+    {
+      "Seller": "RCC Flooring",
+      "Buyer": "Two Individual Investors",
+      "Industry": "Construction",
+      "Sub-Industry": "Commercial Flooring Solutions",
+      "Services": "Product selection, sales, installation, maintenance, reclamation, recycling"
+    },
+    {
+      "Seller": "VO Brothers Mechanical, LLC",
+      "Buyer": "Undisclosed",
+      "Industry": "Construction",
+      "Sub-Industry": "Mechanical & Plumbing Services",
+      "Services": "Mechanical, plumbing, and process installation services for construction, healthcare, and manufacturing"
+    },
+    {
+      "Seller": "Vision BP, LLC",
+      "Buyer": "US LBM Holdings, LLC",
+      "Industry": "Building Materials",
+      "Sub-Industry": "Doors, Windows & Home Automation",
+      "Services": "Production wood and metal doors, windows, custom fireplaces, home automation, security hardware"
+    },
+    {
+      "Seller": "Quotient, Inc.",
+      "Buyer": "Virtual Technologies Group",
+      "Industry": "Information Technology",
+      "Sub-Industry": "Federal IT Solutions",
+      "Services": "Systems integration, full-stack software development, cybersecurity, operational support"
+    },
+    {
+      "Seller": "Romtex Enterprises, Inc.",
+      "Buyer": "Windlass Engineers & Services",
+      "Industry": "Manufacturing",
+      "Sub-Industry": "Precision Machining & Custom Manufacturing",
+      "Services": "Custom machining, precision parts, small and large-volume production"
+    },
+    {
+      "Seller": "OneSource Professional Search, LLC",
+      "Buyer": "Xenspire Group Inc.",
+      "Industry": "Recruiting",
+      "Sub-Industry": "Technical & Executive Search",
+      "Services": "Staffing for engineering, geoscience, finance, oil & gas, accounting, and manufacturing sectors"
+    }
+  ]
+}
