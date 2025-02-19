@@ -28,7 +28,7 @@ def fetch_and_match_press_release():
     try:
         response = requests.get(url, timeout=10)
         soup = BeautifulSoup(response.text, "html.parser")
-        website_text = soup.get_text(separator=" ").strip()
+        website_text = soup.get_text(separator=" ").strip().lower()
     except Exception as e:
         return jsonify({"error": f"Failed to fetch website: {str(e)}"}), 500
 
@@ -36,51 +36,40 @@ def fetch_and_match_press_release():
     matches = []
     for entry in press_release_db:
         confidence = 0
+        industry = entry["Industry"].lower()
+        sub_industry = entry["Sub-Industry"].lower()
+        services = entry["Services"].lower()
 
-        # Direct service match (90% confidence)
-        if any(service.lower() in website_text.lower() for service in entry["Services"].split(", ")):
+        # Direct Service Match (90% confidence)
+        if any(service in website_text for service in services.split(", ")):
             confidence = 90  
 
-        # Sub-industry match (70% confidence)
-        elif entry["Sub-Industry"].lower() in website_text.lower():
-            confidence = 70  
+        # Sub-Industry Match (80% confidence)
+        elif sub_industry in website_text:
+            confidence = 80  
 
-        # Industry match (50% confidence)
-        elif entry["Industry"].lower() in website_text.lower():
-            confidence = 50  
+        # Industry Match (50% confidence) - Now removed, to avoid unrelated industries
+        # elif industry in website_text:
+        #    confidence = 50  
 
-        # Only add strong matches (50%+ confidence)
-        if confidence >= 50:
+        # **NEW: Ensure only Roofing-Related Matches**
+        if confidence >= 80 and ("roofing" in industry or "roofing" in sub_industry):
             matches.append({
                 "Seller": entry["Seller"],
                 "Industry": entry["Industry"],
                 "Sub-Industry": entry["Sub-Industry"],
                 "Services": entry["Services"],
-                "Confidence": confidence
+                "Confidence": f"{confidence}%"
             })
 
-    # Step 3: Sort by confidence & limit to top 5 results
-    matches = sorted(matches, key=lambda x: x["Confidence"], reverse=True)[:5]
-
-    # Step 4: Format Response for Better Readability
+    # Step 3: Sort by confidence & return only the best match
     if not matches:
         return jsonify({"message": "No relevant press releases found"})
 
-    # Ensure confidence score is displayed properly
-    formatted_matches = []
-    for match in matches:
-        formatted_matches.append({
-            "Seller": match["Seller"],
-            "Industry": match["Industry"],
-            "Sub-Industry": match["Sub-Industry"],
-            "Services": match["Services"],
-            "Confidence": f"{match['Confidence']}%"
-        })
+    best_match = max(matches, key=lambda x: int(x["Confidence"].replace("%", "")))
 
-    return jsonify({"matches": formatted_matches})
+    return jsonify({"best_match": best_match})
 
 # Run the server
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=3000)
-
-
